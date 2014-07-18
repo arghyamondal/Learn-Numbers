@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6EC40451-B0A0-44A0-9D17-A18B3FC3F325</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Learn_Numbers_WithUnitTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B2E5FAC5-81AA-4F31-8173-BDAD1F31F81B</key>
+		<string>https://github.com/arghyamondal/Learn-Numbers.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>UnitTestProjectApplication/Learn_Numbers_WithUnitTest/Learn_Numbers_WithUnitTest.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B2E5FAC5-81AA-4F31-8173-BDAD1F31F81B</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/arghyamondal/Learn-Numbers.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B2E5FAC5-81AA-4F31-8173-BDAD1F31F81B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B2E5FAC5-81AA-4F31-8173-BDAD1F31F81B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Learn_Numbers_WithUnitTest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
